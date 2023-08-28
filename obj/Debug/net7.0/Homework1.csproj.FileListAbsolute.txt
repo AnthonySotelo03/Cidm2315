@@ -1,0 +1,14 @@
+/Users/anthonysotelo/Documents/Cidm2315/Homework1/obj/Debug/net7.0/Homework1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anthonysotelo/Documents/Cidm2315/Homework1/obj/Debug/net7.0/Homework1.AssemblyInfoInputs.cache
+/Users/anthonysotelo/Documents/Cidm2315/Homework1/obj/Debug/net7.0/Homework1.AssemblyInfo.cs
+/Users/anthonysotelo/Documents/Cidm2315/Homework1/obj/Debug/net7.0/Homework1.csproj.CoreCompileInputs.cache
+/Users/anthonysotelo/Documents/Cidm2315/Homework1/bin/Debug/net7.0/Homework1
+/Users/anthonysotelo/Documents/Cidm2315/Homework1/bin/Debug/net7.0/Homework1.deps.json
+/Users/anthonysotelo/Documents/Cidm2315/Homework1/bin/Debug/net7.0/Homework1.runtimeconfig.json
+/Users/anthonysotelo/Documents/Cidm2315/Homework1/bin/Debug/net7.0/Homework1.dll
+/Users/anthonysotelo/Documents/Cidm2315/Homework1/bin/Debug/net7.0/Homework1.pdb
+/Users/anthonysotelo/Documents/Cidm2315/Homework1/obj/Debug/net7.0/Homework1.dll
+/Users/anthonysotelo/Documents/Cidm2315/Homework1/obj/Debug/net7.0/refint/Homework1.dll
+/Users/anthonysotelo/Documents/Cidm2315/Homework1/obj/Debug/net7.0/Homework1.pdb
+/Users/anthonysotelo/Documents/Cidm2315/Homework1/obj/Debug/net7.0/Homework1.genruntimeconfig.cache
+/Users/anthonysotelo/Documents/Cidm2315/Homework1/obj/Debug/net7.0/ref/Homework1.dll
